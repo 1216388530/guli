@@ -1,0 +1,13 @@
+TokenWebSecurityConfig：核心配置类
+SecurityUser:相关实体类
+User：相关实体类
+
+TokenAuthenticationFilter:授权过滤
+TokenLoginFilter:认证过滤器
+
+DefaultPasswordEncoder:密码处理
+TokenLogoutHandler:退出处理器
+TokenManager:token操作工具类
+UnauthorizedEntryPoint:未授权统一处理类
+
+
